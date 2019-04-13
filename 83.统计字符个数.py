@@ -1,4 +1,5 @@
-
+"""Given a string, write a program to count the occurrence of 
+Lowercase characters, Uppercase characters, Special characters and Numeric values."""
 
 def countChr(str):
     Upper = 0
